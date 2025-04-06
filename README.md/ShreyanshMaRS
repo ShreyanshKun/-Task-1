@@ -1,0 +1,13 @@
+MY LEARNING EXPERIENCE:- This was very fun. I faced many ups and downs while completing the task 1. As this was right after the fest and also i had many assignments ahead of me i had a task of spliting my time properly. Also this made me revisit the LINUX commands that i learnt in first sem.Overall experience was very fun.
+
+WHAT DID I LEARN:- I learnt how to use GITHUB , and also learnt about concepts like BASH Script, Behaviour Tree and also about Eulers system and Quaternion System. 
+
+CHALLENGES FACED:- First in light dose I didnt remember half of the LINUX commands . So i had to learn all The basic linux commands again .After this it was Bash Script this was the first time i heard of such thing. So I knew what to do , that is i kind of wrote a pseudocode in c language and then searched for the similar code in BASH. It took me some time to get this idea. Going to medium Dose i was able to solve 1 and 3 question without any probelm but later my friend pointed out my mistake . I forgot to consider one thing and after that we both figured out the logic and solved it> In 2nd question we learnt the concept of morse code and solved it . I tried the fourth question but was strggling with file handling so i decided to leave it. And finally i solved the 5th question after learning the concept of Euler and Quaternion Sytem.
+
+MY APPROACH:- My approach was to understand the question as well as i can, ask for some different point of views, make a fucntion algorithm to see the path and atlast write the program and debug it.
+
+Resource Used :- https://en.wikipedia.org/wiki/Gimbal_lock, I also used AI tools like Chat gpt. 
+
+Questions :- IN Behaviour tree they asked few question:-
+Behaviour is very easy to visualize and understand. It is easy for the rover to break down the tree easily as it is just simple yes and no statements. It is better than if-else statements because if and else codes are long and complex for every condition arises a new statement increasing the length of the overall code which makes it difficult to debug the code but in case of a behaviour tree it is very wasy to debug.And if the baterry is low my rover would be asked to turn off all the unecessary systems to focus on battery saving and if its not low then it would procced normally
+
